@@ -50,9 +50,9 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=m-user-unknown&show_icons=true&theme=nord&hide_border=true&include_all_commits=true"
+  src="https://streak-stats.demolab.com/?user=m-user-unknown&theme=nord&hide_border=true"
   width="48%"
-  alt="GitHub Stats"
+  alt="GitHub Streak Stats"
 />
 
   <img 
