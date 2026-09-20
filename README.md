@@ -50,7 +50,7 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=m-user-unknown&theme=nord&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=m-user-unknown&show_icons=true&theme=nord&hide_border=true&include_all_commits=true"
   width="48%"
   alt="GitHub Stats"
 />
