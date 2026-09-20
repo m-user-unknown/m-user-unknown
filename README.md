@@ -49,11 +49,11 @@
 
 <div align="center">
 
-<img 
-    src="https://github-readme-stats.shion.dev/api?username=m-user-unknown&theme=nord&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"
-    width="48%"
-    alt="GitHub Stats"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=m-user-unknown&theme=nord&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"
+  width="48%"
+  alt="GitHub Stats"
+/>
 
   <img 
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=m-user-unknown&theme=nord&hide_border=true&layout=compact&langs_count=8"
