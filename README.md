@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt="Waving Hand" />
   <span style="color: #888; font-size: 20px; font-weight: normal;">Hello!</span>
   I'm <b>Mrutyunjaya</b>
 </h1>
