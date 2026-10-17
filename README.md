@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color: #888; font-size: 30px; font-weight: normal;">Hello!</span>
+  <span style="color: #888; font-size: 50px; font-weight: normal;">Hello!</span>
   I'm <b>Mrutyunjaya</b>
 </h1>
 
@@ -102,7 +102,7 @@ A personal knowledge base that transforms local documents into searchable, sourc
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-user-unknown&theme=nord&hide_border=true&layout=compact&langs_count=8"
-    width="48%"
+    width="35%"
     alt="Most Used Languages"
   />
 </p>
